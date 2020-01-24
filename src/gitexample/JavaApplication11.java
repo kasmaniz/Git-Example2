@@ -7,7 +7,7 @@ package gitexample;
 
 /**
  *
- * @author Taby zeri
+ * @author Zohaib zeri
  */
 public class JavaApplication11 {
 
